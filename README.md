@@ -32,4 +32,6 @@ I haven't gotten around to making a server for this so this will temporarily be 
    After wrapping up press "save and exit" in the world menu, and wait for the world to save.
    Open up Github Desktop, which *should* have the world open. On the left, there should show changes to the world. On the bottom-left corner, you type commit info (basically describe what you added), and press commit.
    Github Desktop should then prompt you to push your changes to Github. Do that.
-7. **Make a pull request** (TODO: explain later)
+7. **[Make a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to this repository**
+
+   Someone should be able to accept it shortly.
